@@ -1,0 +1,31 @@
+#calculator {
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    width: 200px;
+    height: 30px;
+    text-align: right;
+    margin: 0 auto;
+  }
+  
+  button {
+    width: 50px;
+    height: 40px;
+    margin: 10px;
+  }
+  
+  #previous-calculations {
+    width: 200px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  #history {
+    list-style: none;
+    padding: 0;
+  }
